@@ -1,7 +1,7 @@
 {
     "name": "SCGT",
     "description": "SCGT Constellation",
-    "image": "https://raw.githubusercontent.com/gpteth/constellation2/refs/heads/main/assets/3.png",
+    "image": "https://raw.githubusercontent.com/gpteth/constellation2/refs/heads/main/assets/2439.png",
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
@@ -16,7 +16,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/gpteth/constellation2/refs/heads/main/assets/3.png",
+                "uri": "https://raw.githubusercontent.com/gpteth/constellation2/refs/heads/main/assets/2439.png",
                 "type": "image/png"
             }
         ],
